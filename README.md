@@ -31,5 +31,7 @@ Main sources of error included environmental noise, multipath effects, and RSSI 
 
 ## Photos/videos of the experiment
 ![Video](Assignment7.gif)
+
 ![Video](Assignment7_Advanced1.gif)
+
 ![Video](Assignment7_Advanced2.gif)
