@@ -20,8 +20,8 @@ Measurements were taken at fixed intervals: 0.5m, 1.0m, 2.0m, 3.0m, and 4.0m.
 Results were visualized both in a table and a bar chart, comparing actual and measured distances.
 
 ## Results
-![Photo](Assignment7-Chart.png)
-![Photo](Assignment7-Table.png)
+![Photo](Assignment7-Chart.PNG)
+![Photo](Assignment7-Table.PNG)
 
 ### Performance Analysis
 The system showed high accuracy at short distances (0.5–2.0m), with errors mostly within 0.1m.
@@ -30,6 +30,6 @@ The results are consistent with typical BLE-based distance estimation error marg
 Main sources of error included environmental noise, multipath effects, and RSSI fluctuations.
 
 ## Photos/videos of the experiment
-![Video](Assignment7.GIF)
-![Video](Assignment7_Advanced1.GIF)
-![Video](Assignment7_Advanced2.GIF)
+![Video](Assignment7.gif)
+![Video](Assignment7_Advanced1.gif)
+![Video](Assignment7_Advanced2.gif)
